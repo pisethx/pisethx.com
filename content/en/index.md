@@ -12,7 +12,7 @@ technologies:
   - SCSS
 ---
 
-I am Monespiseth Ly, aka **pisethx**. Currently, I am working as a freelance frontend developer 👨‍💻 . I drink way too much Iced Latte ☕️ .
+I am Monespiseth Ly, aka **pisethx**. Currently, I am a Computer Science student while working as a freelance frontend developer 👨‍💻 . I drink way too much Iced Latte ☕️ .
 
 Based in Cambodia 🇰🇭 .
 
