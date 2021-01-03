@@ -18,7 +18,7 @@ Based in Cambodia 🇰🇭 .
 
 Find me as **@pisethx** on [Twitter](https://twitter.com/pisethx) & [Instagram](https://instagram.com/pisethx).
 
-Some of my work is available on [Github](https://github.com/rancou).
+Some of my work is available on [Github](https://github.com/pisethx).
 
 <!-- <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/> -->
