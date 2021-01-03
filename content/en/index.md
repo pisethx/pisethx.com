@@ -1,5 +1,5 @@
 ---
-title: Hello
+title: Hello World
 description: ""
 position: 1
 category: ""
@@ -12,13 +12,11 @@ technologies:
   - SCSS
 ---
 
-I am Monespiseth Ly, aka pisethx. Currently, I am working as a freelance frontend developer 👨‍💻 .
-
-I drink way too many ☕️ .
+I am Monespiseth Ly, aka **pisethx**. Currently, I am working as a freelance frontend developer 👨‍💻 . I drink way too much Iced Latte ☕️ .
 
 Based in Cambodia 🇰🇭 .
 
-Find me as @pisethx on [Twitter](https://twitter.com/pisethx) & [Instagram](https://instagram.com/pisethx).
+Find me as **@pisethx** on [Twitter](https://twitter.com/pisethx) & [Instagram](https://instagram.com/pisethx).
 
 Some of my work is available on [Github](https://github.com/rancou).
 
