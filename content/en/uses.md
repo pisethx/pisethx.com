@@ -10,7 +10,7 @@ softwares:
   - I use Github Dark theme for VS Code along with Dank Mono font
 
 hardwares:
-  - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256 SSD)
+  - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
   - AOC 21.5" Monitor
   - Apple Magic Keyboard with Numeric Keypad
   - Logitech MX Master 2S
