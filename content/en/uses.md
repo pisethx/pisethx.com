@@ -1,13 +1,13 @@
 ---
 title: Uses
 description: ""
-position: 1
+position: 2
 category: ""
 softwares:
   - Visual Studio Code
   - Google Chrome
   - WakaTime for tracking my coding activity
-  - I use Github Dark theme for VS Code along with the Dank Mono font
+  - I use Github Dark theme for VS Code along with Dank Mono font
 
 hardwares:
   - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256 SSD)
