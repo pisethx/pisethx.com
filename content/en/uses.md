@@ -5,10 +5,8 @@ position: 2
 category: ""
 softwares:
   - Visual Studio Code (Dank Mono font + Horizon Theme)
-  - Google Chrome
   - iTerm + Oh My Zsh
-  - WakaTime for tracking my coding activity
-  - I use Github Dark theme for VS Code along with Dank Mono font
+  - WakaTime Extension for tracking my coding activity
 
 hardwares:
   - ASUS TUF FX505 (Core i7, 1050 4GB, 16GB RAM, 128GB SSD + 1TB SSHD)
