@@ -10,21 +10,23 @@ softwares:
   - I use Github Dark theme for VS Code along with Dank Mono font
 
 hardwares:
-  - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
+  - ASUS TUF FX505 Gaming Laptop
   - AOC 21.5" Monitor
+  - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
   - Apple Magic Keyboard with Numeric Keypad
   - Logitech MX Master 2S
   - Nexstand K7 Laptop Stand
 
 others:
-  - ASUS TUF FX505 Gaming Laptop
   - OnePlus 5T
+  - iPhone 7
   - Tronsmart Spunky Beat Wireless Earbuds
+  - Haylou T-15 Wireless Earbuds
 ---
 
 #### Here are the tools that I use on a daily basis.
 
-<img src="/setup.jpg"   width="1280" height="640" alt=""/>
+<img src="/wfm-setup.jpg"   width="1280" height="640" alt=""/>
 
 <!-- <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/> -->
