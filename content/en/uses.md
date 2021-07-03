@@ -5,15 +5,15 @@ position: 2
 category: ""
 softwares:
   - Visual Studio Code (Dank Mono font + Horizon Theme)
-  - iTerm + Oh My Zsh
-  - WakaTime Extension for tracking my coding activity
+  - iTerm + Oh My Zsh 
 
 hardwares:
+  - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
   - ASUS TUF FX505 (Core i7, 1050 4GB, 16GB RAM, 128GB SSD + 1TB SSHD)
   - AOC 21.5" Monitor
-  - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
   - Apple Magic Keyboard with Numeric Keypad
   - Logitech MX Master 2S
+  - Sony WH-1000XM3
   - Nexstand K7 Laptop Stand
 
 others:
