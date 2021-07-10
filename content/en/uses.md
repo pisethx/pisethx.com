@@ -25,7 +25,7 @@ others:
 
 #### Here are the tools that I use on a daily basis.
 
-<img src="/wfm-setup.jpg"   width="1280" height="640" alt=""/>
+<img src="/setup.jpg"   width="1280" height="640" alt=""/>
 
 <!-- <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/> -->
