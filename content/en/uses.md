@@ -10,7 +10,7 @@ softwares:
 hardwares:
   - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
   - ASUS TUF FX505 (Core i7, 1050 4GB, 16GB RAM, 128GB SSD + 1TB SSHD)
-  - AOC 21.5" Monitor
+  - Dell P3221D 32" QHD Monitor
   - Apple Magic Keyboard with Numeric Keypad
   - Logitech MX Master 2S
   - Sony WH-1000XM3
