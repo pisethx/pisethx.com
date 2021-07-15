@@ -5,7 +5,7 @@ position: 1
 category: ""
 technologies:
   - Javascript
-  - Vue.js / Nuxt.js
+  - Vue / Nuxt
   - React / React Native
   - Flutter
 ---

@@ -12,6 +12,7 @@ hardwares:
   - ASUS TUF FX505 (Core i7, 1050 4GB, 16GB RAM, 128GB SSD + 1TB SSHD)
   - Dell P3221D 32" QHD Monitor
   - Apple Magic Keyboard with Numeric Keypad
+  - Redragon K555 INDRAH Mechanical Gaming Keyboard 
   - Logitech MX Master 2S
   - Sony WH-1000XM3
   - Nexstand K7 Laptop Stand
