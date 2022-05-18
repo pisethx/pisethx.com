@@ -4,27 +4,27 @@ description: ""
 position: 2
 category: ""
 softwares:
-  - Visual Studio Code (Dank Mono font + Horizon Theme)
-  - iTerm + Oh My Zsh 
+  - Visual Studio Code (Dank Mono font + Tailwind Moon Blue Theme)
+  - iTerm + Oh My Zsh
 
 hardwares:
   - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
   - ASUS TUF FX505 (Core i7, 1050 4GB, 16GB RAM, 128GB SSD + 1TB SSHD)
   - Dell P3221D 32" QHD Monitor
   - Apple Magic Keyboard with Numeric Keypad
-  - Redragon K555 INDRAH Mechanical Gaming Keyboard 
+  - Redragon K555 INDRAH Mechanical Gaming Keyboard
   - Logitech MX Master 2S
   - Sony WH-1000XM3
   - Nexstand K7 Laptop Stand
 
 others:
-  - OnePlus 5T
+  - OnePlus 8 Pro
   - iPhone 7
-  - Tronsmart Spunky Beat Wireless Earbuds
-  - Haylou T-15 Wireless Earbuds
 ---
 
 #### Here are the tools that I use on a daily basis.
+
+<badge>Setup V1.0</badge>
 
 <img src="/setup.jpg"   width="1280" height="640" alt=""/>
 
