@@ -3,8 +3,8 @@
   "description": "Easily connect your Nuxt.js application to your content hosted on Prismic",
   "url": "pisethx.com",
   "logo": {
-    "light": "/memoji-4.png",
-    "dark": "/memoji-4.png"
+    "light": "/icon.png",
+    "dark": "/icon.png"
   },
   "github": "pisethx",
   "twitter": "pisethx",

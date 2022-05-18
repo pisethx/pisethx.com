@@ -4,9 +4,10 @@ description: ""
 position: 1
 category: ""
 technologies:
-  - Javascript
+  - JavaScript / TypeScript
   - Vue / Nuxt
   - React / React Native
+  - NodeJS / ExpressJS
   - Flutter
 ---
 
@@ -16,11 +17,7 @@ technologies:
 
 <img src="/profile.png" width="200" height="200" alt=""/>
 
-
 I am Monespiseth Ly, aka **pisethx**. Currently, I am a Computer Science student while working as a freelance frontend developer 👨‍💻 . I drink way too much Iced Latte ☕️ .
-
-
-
 
 Based in Cambodia 🇰🇭 .
 
