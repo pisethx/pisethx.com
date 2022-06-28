@@ -1,9 +1,15 @@
 ---
 title: Khmer Word Segmentation
-description: Use neural network to segment Khmer sentences to each individual words
-position: 3
+position: 2
 badge: NLP
 category: Projects
 ---
 
-View it on <a href="https://github.com/pisethx/khmer-word-segmentation" target="_blank">Github.</a>
+Compare 4 different methods for Khmer Word Segmentation:
+- International Components for Unicode (ICU)
+- Symspell
+- Conditional Random Field
+- Recurrent Neural Network
+
+## Source
+- **Github:** [https://github.com/pisethx/khmer-word-segmentation](https://github.com/pisethx/khmer-word-segmentation)

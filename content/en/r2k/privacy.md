@@ -7,7 +7,7 @@ collections:
   - Words that are typed in the keyboard are needed to tracked in order to predict its Khmer form. However, we do not keep track of the author or the device owner.
 ---
 
-This page is about privacy policy for <a target="_blank" href="https://play.google.com/store/apps/details?id=com.pisethx.r2k_keyboard">R2K - Keyboard</a> application.
+This page is about privacy policy for [R2K - Keyboard](https://play.google.com/store/apps/details?id=com.pisethx.r2k_keyboard)
 ## General information
 Monespiseth Ly, the copyright holder of R2K - Keyboard, provides this Privacy Policy to help you understand how we collect, use and disclose information, including personal information that you may provide to us or that we may obtain as R2K - Keyboard is used. We may update this Privacy Policy from time to time, so please check back with us periodically.
 "Personal Information" includes information that alone or when in combination with other information may be used to readily identify, contact, or locate you or a specific individual.

@@ -1,7 +1,7 @@
 ---
-title: Coming soon
+title: Coming soon...
 description: ""
-position: 4
+position: 3
 category: Projects
 ---
 
