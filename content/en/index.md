@@ -6,10 +6,10 @@ category: ""
 technologies:
   - JavaScript / TypeScript
   - Vue / Nuxt
-  - React / React Native
+  - React
   - NodeJS / ExpressJS
-  - Flutter
   - Python / FastAPI
+  - Flutter
   - Docker
 ---
 
