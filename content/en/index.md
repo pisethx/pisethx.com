@@ -7,8 +7,8 @@ technologies:
   - JavaScript / TypeScript
   - Vue / Nuxt
   - React
-  - NodeJS / ExpressJS
-  - Python / FastAPI
+  - Node
+  - Python
   - Flutter
   - Docker
 ---

@@ -12,7 +12,6 @@ Khmer keyboard that uses Machine Learning to predict Khmer words from its Romani
 ## Where to download
 - **Android:** [https://play.google.com/store/apps/details?id=com.pisethx.r2k_keyboard](https://play.google.com/store/apps/details?id=com.pisethx.r2k_keyboard)
 - **iOS:** coming soon...
-- **MacOS:** coming soon...
 
 
 ## Privacy Policy
