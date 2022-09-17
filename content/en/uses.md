@@ -9,15 +9,16 @@ softwares:
 
 hardwares:
   - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
-  - ASUS TUF FX505 (Core i7, 1050 4GB, 16GB RAM, 128GB SSD + 1TB SSHD)
   - Dell P3221D 32" QHD Monitor
   - Logitech MX Mechanical Mini Keyboard
   - Logitech MX Master 2S
   - Sony WH-1000XM3
+  - JBL Charge 5
 
 others:
   - OnePlus 8 Pro
   - iPhone 7
+  - Nintendo Switch V2
 ---
 
 #### Here are the tools that I use on a daily basis.
