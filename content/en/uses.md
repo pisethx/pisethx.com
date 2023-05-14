@@ -16,9 +16,11 @@ hardwares:
   - JBL Charge 5
 
 others:
+  - iPhone 12 Pro Max
   - OnePlus 8 Pro
-  - iPhone 7
-  - Nintendo Switch V2
+  - Apple Watch Series 7
+  - Nintendo Switch V2 Animal Crossing Edition
+  - OnePlus Buds Z2
 ---
 
 #### Here are the tools that I use on a daily basis.
