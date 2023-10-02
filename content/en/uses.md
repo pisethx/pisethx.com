@@ -12,15 +12,14 @@ hardwares:
   - Dell P3221D 32" QHD Monitor
   - Logitech MX Mechanical Mini Keyboard
   - Logitech MX Master 2S
-  - Sony WH-1000XM3
-  - JBL Charge 5
 
 others:
   - iPhone 12 Pro Max
   - OnePlus 8 Pro
-  - Apple Watch Series 7
-  - Nintendo Switch V2 Animal Crossing Edition
-  - OnePlus Buds Z2
+  - Sony WH-1000XM3
+  - Airpods Pro 2
+  - JBL Charge 5
+  - Nintendo Switch V2
 ---
 
 #### Here are the tools that I use on a daily basis.
