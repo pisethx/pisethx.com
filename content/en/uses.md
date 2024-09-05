@@ -6,9 +6,11 @@ category: ""
 softwares:
   - Visual Studio Code (Dank Mono font + Tailwind Moon Blue Theme)
   - iTerm + Oh My Zsh
+  - Cursor
+  - Raycast
 
 hardwares:
-  - Macbook Pro 13" 2020 (Core i5, 8GB RAM, 256GB SSD)
+  - Macbook Pro 14" 2023 (M3 Pro, 18GB RAM, 512GB SSD)
   - Dell P3221D 32" QHD Monitor
   - Logitech MX Mechanical Mini Keyboard
   - Logitech MX Master 2S
@@ -16,10 +18,8 @@ hardwares:
 others:
   - iPhone 12 Pro Max
   - OnePlus 8 Pro
-  - Sony WH-1000XM3
   - Airpods Pro 2
-  - JBL Charge 5
-  - Nintendo Switch V2
+  - Apple Watch Series 7
 ---
 
 #### Here are the tools that I use on a daily basis.

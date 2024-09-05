@@ -5,11 +5,10 @@ position: 1
 category: ""
 technologies:
   - JavaScript / TypeScript
-  - React
+  - React / Next.js
   - Vue / Nuxt
-  - Node
-  - Python
-  - Flutter
+  - React Native
+  - Tailwind CSS
   - Docker
 ---
 
