@@ -6,6 +6,16 @@
 
 This site is automatically deployed to GitHub Pages using GitHub Actions.
 
+### Prerequisites
+
+- **Node.js 16.x** (required for Nuxt.js 2.x compatibility)
+- If you're using a different Node.js version, use `nvm` to switch:
+  ```bash
+  nvm use 16
+  # or install if not available
+  nvm install 16
+  ```
+
 ### Setup Instructions
 
 1. **Enable GitHub Pages**:
@@ -41,6 +51,13 @@ npm run generate
 # Deploy (builds and prepares for deployment)
 npm run deploy
 ```
+
+### Troubleshooting
+
+If you encounter build errors:
+1. Make sure you're using Node.js 16.x
+2. Clear node_modules and reinstall: `rm -rf node_modules package-lock.json && npm install`
+3. Clear Nuxt cache: `rm -rf .nuxt`
 
 ### Custom Domain
 
