@@ -1,0 +1,16 @@
+{
+  "title": "Monespiseth Ly",
+  "description": "Everything about me",
+  "url": "pisethx.github.io",
+  "logo": {
+    "light": "/icon.png",
+    "dark": "/icon.png"
+  },
+  "github": "pisethx",
+  "twitter": "pisethx",
+  "header": {
+    "logo": true,
+    "title": false
+  },
+  "credits": false
+}
