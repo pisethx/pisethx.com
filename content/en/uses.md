@@ -4,9 +4,9 @@ description: ""
 position: 2
 category: ""
 softwares:
-  - Visual Studio Code (Dank Mono font + Tailwind Moon Blue Theme)
+  - Visual Studio Code / Cursor
+  - Operator Mono font + Vesper Theme
   - iTerm + Oh My Zsh
-  - Cursor
   - Raycast
 
 hardwares:
@@ -16,10 +16,9 @@ hardwares:
   - Logitech MX Master 2S
 
 others:
-  - iPhone 12 Pro Max
+  - iPhone 15 Pro Max
   - OnePlus 8 Pro
   - Airpods Pro 2
-  - Apple Watch Series 7
 ---
 
 #### Here are the tools that I use on a daily basis.
