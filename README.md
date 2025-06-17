@@ -1,6 +1,6 @@
 # Personal Website
 
-### [Visit website](https://pisethx.com)
+### [Visit website](https://pisethx.github.io/pisethx)
 
 ## GitHub Pages Deployment
 
@@ -44,7 +44,7 @@ npm run deploy
 
 ### Custom Domain
 
-If you want to use a custom domain (like pisethx.com):
+If you want to use a custom domain (like pisethx.github.io/pisethx):
 1. Add a `CNAME` file in the `static/` directory with your domain
 2. Configure your domain's DNS to point to GitHub Pages
 3. Update the `router.base` in `nuxt.config.js` to match your domain structure 
